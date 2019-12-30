@@ -1,0 +1,113 @@
+
+
+body{
+    background-color: #faf7e6;
+    font-family:Helvetica, Arial, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #911d03;
+    color: white;
+    Text-align: left;
+    padding: 10px;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+}
+
+header a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.jumbotron-fluid{
+    background-color:maroon;
+    color:white;
+    width:100%;
+}
+
+ .full-width-tabs > ul.nav.nav-tabs {
+                display: table;
+                width: 100%;
+                table-layout: fixed; 
+            }
+     .full-width-tabs > ul.nav.nav-tabs > li {
+                float: none;
+                display: table-cell;
+            }
+    .full-width-tabs > ul.nav.nav-tabs > li > a {
+                text-align: center;
+            }
+  
+    
+nav a{
+    text-decoration: none;
+    color:slategray;
+    text-align: center;
+    display: block;
+    float:left;
+
+}
+ 
+
+.nav-tabs>li>a.active
+.nav-tabs>li>a:hover
+.nav-tabs>li>a:focus {
+    color:darkblue;
+    text-shadow: 1px;
+    display: block;
+}
+
+.clear-float {
+    clear:both;
+}
+
+.right-content{
+    float:left;
+}
+
+article img {
+    Float:left;
+}
+
+article{
+    margin-bottom: 16px;
+}
+
+
+.container{
+    
+    width: 100%;
+    
+}
+
+
+#content{
+    padding: 10px
+}
+
+
+
+#welcome{
+    width:600px;
+    float: center;
+}
+
+#footer{
+    clear: both;
+    padding: 4px;
+    background-color: maroon;
+    color: floralwhite;
+    text-align: left;
+    position: relative;
+}
